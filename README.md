@@ -3,7 +3,7 @@ Simple converter, that allows you to convert PDF to a playable MP3.
 
 Installation:
 
-run "pip3 install -r requirements.txt" to instal all needed stuff. 
+run `pip3 install -r requirements.txt` to instal all needed stuff. 
 
 make sure you have java installed otherwise the tika server can't run. 
 
